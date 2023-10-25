@@ -1,0 +1,98 @@
+:root {
+    --color-primary: rgb(69 63 49);
+    --bg-primary: #ede9dd;
+    --bg-white: #eae2e6;
+    --bg-secundary: linear-gradient(to right bottom, rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.3));
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+}
+
+@font-face {
+    font-family: 'poppins';
+    src: url(Poppins-ExtraLight.ttf);
+}
+
+
+@font-face {
+    font-family: 'flair';
+    src: url("PlayfairDisplay-Bold.ttf");
+}
+
+@font-face {
+    font-family: 'lora';
+    src: url(Lora-Regular.ttf);
+}
+.outer-form{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 15px;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.titulo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family:'fair';
+    font-size: 90px;
+    color: var(--color-primary);
+}
+
+input {
+    padding: 15px;
+    width: 30vw;
+    font-family: 'poppins';
+    border-radius: 6px;
+}
+textarea {
+    font-family: 'poppins';
+    border-radius: 6px;
+}
+.container {
+    background: var(--bg-secundary);
+    background-color: var(--bg-primary);
+}
+
+.texto {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-bottom: 4rem;
+}
+
+.paragrafo {
+    font-family: 'poppins';
+    font-weight: 600;
+    display: flex;
+    align-items: center;  
+    justify-content: center;
+}
+
+.paragrafo2 {
+    font-family: 'poppins';
+    font-weight: 600;
+    display: flex;
+    align-items: center;  
+    justify-content: center;
+    padding: 10px;
+    text-align: center;
+}
