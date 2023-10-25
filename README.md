@@ -1,1 +1,1 @@
-Projeto de um site voltado para uma clínica médica em html\css
+Projeto de um site voltado para uma clínica médica em html/css
