@@ -1,7 +1,7 @@
 ## Oasis Wellness - Clínica Médica
 
 
-Uma clínica médica dedicada a oferecer serviços de saúde com a mais alta qualidade. Este site foi criado como parte de um projeto para aprimorar habilidades em desenvolvimento web, focando no uso de HTML e CSS.
+Uma clínica médica dedicada a oferecer serviços de saúde com a mais alta qualidade. Este site foi criado como parte de um projeto para aprimorar habilidades em desenvolvimento web e entender melhor codificação front-end, focando no uso de HTML e CSS.
 
 ## Funcionalidades  
 O site inclui várias funcionalidades para melhorar a experiência do usuário e a eficiência da gestão da clínica, tais como:
@@ -19,7 +19,5 @@ O site inclui várias funcionalidades para melhorar a experiência do usuário e
 HTML: Estrutura do site.    
 CSS: Estilização.  
 
-## Aprendizados
-Este projeto foi uma excelente oportunidade para desenvolver minhas habilidades em codificação front-end, entender melhor as práticas de design e aprimorar meus conhecimentos em desenvolvimento web, focando especificamente no uso de HTML e CSS.
 
 
