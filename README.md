@@ -9,7 +9,7 @@ A medical clinic dedicated to offering healthcare services of the highest qualit
 ***Sobre Nós:*** Detailed information about the clinic, its mission, vision, and values.
 ***Serviços:***  Description of the services offered, including details about consultations, treatments, and specialties.
 
-***Agendamento Online:***An integrated tool that allows patients to schedule appointments directly through the website.
+***Agendamento Online:*** An integrated tool that allows patients to schedule appointments directly through the website.
 
 ***Contato***: A contact form.
 
