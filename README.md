@@ -1,23 +1,21 @@
-## Oasis Wellness - Clínica Médica
+## Oasis Wellness - Medical Clinic
 
 
-Uma clínica médica dedicada a oferecer serviços de saúde com a mais alta qualidade. Este site foi criado como parte de um projeto para aprimorar habilidades em desenvolvimento web e entender melhor codificação front-end, focando no uso de HTML e CSS.
+A medical clinic dedicated to offering healthcare services of the highest quality. This website was created as part of a project to enhance web development skills and gain a better understanding of front-end coding, focusing on the use of HTML and CSS.
+## Features  
 
-## Funcionalidades  
-O site inclui várias funcionalidades para melhorar a experiência do usuário e a eficiência da gestão da clínica, tais como:
+***Home***: Introduces the clinic and its main services with an attractive visual design.
 
-***Home***: Apresenta a clínica e seus principais serviços com um design visual atrativo.
+***Sobre Nós:*** Detailed information about the clinic, its mission, vision, and values.
+***Serviços:***  Description of the services offered, including details about consultations, treatments, and specialties.
 
-***Sobre Nós:*** Informações detalhadas sobre a clínica, sua missão, visão e valores.
-***Serviços:*** Descrição dos serviços oferecidos, incluindo detalhes sobre consultas, tratamentos e especialidades.
+***Agendamento Online:***An integrated tool that allows patients to schedule appointments directly through the website.
 
-***Agendamento Online:*** Uma ferramenta integrada que permite aos pacientes agendar consultas diretamente pelo site.
+***Contato***: A contact form.
 
-***Contato***: Formulário para contato.
-
-## Tecnologias Utilizadas
-HTML: Estrutura do site.    
-CSS: Estilização.  
+## Technologies Used
+HTML: Website structure.    
+CSS: Styling.  
 
 
 
